@@ -1,15 +1,5 @@
 {
   "schema": 1,
   "api_base": "https://wadjh.tickdz.com/api/v1",
-  "fallback_api_bases": [
-    "https://maktab.tickdz.com/api/v1"
-  ],
-  "min_app_version": {
-    "tickdz-public-android": "1.0.0",
-    "tickdz-maktab-android": "1.0.0"
-  },
-  "store_url": "https://play.google.com/store/apps/details?id=com.tickdz.app",
-  "message_fr": null,
-  "message_ar": null,
-  "sig": "/jJ2BZI1p7IFze/eieRSGhQ218nhNnFtLsfbuvaSXQtUIJPy8oLMp4kBHnlf4+MzIXZBzHXte9+YSvk9U8hvDw=="
+  "sig": "/pSQwkmMz2z/BGWI6v1D3vhHDCggOcPS3Q9nxAV30cARagk6SsRK0OIYideH+/NBLC2RNxXt/MmxiJUfmsNMDw=="
 }
