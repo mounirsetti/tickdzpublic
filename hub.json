@@ -1,5 +1,5 @@
 {
-  "schema": 1,
+  "schema": 2,
   "api_base": "https://wadjh.tickdz.com/api/v1",
-  "sig": "/pSQwkmMz2z/BGWI6v1D3vhHDCggOcPS3Q9nxAV30cARagk6SsRK0OIYideH+/NBLC2RNxXt/MmxiJUfmsNMDw=="
+  "sig": "ZJUZjsL5qTm11mqR1NTH7YrHVjcF+U8LSgVss+pIBQLSrDoDIu1MO36xFN52JB4HHYmB7KOUd4kkAbhvYzP+Ag=="
 }
